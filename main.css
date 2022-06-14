@@ -1,0 +1,85 @@
+*{ 
+    padding:0px;
+    margin:0px;
+    background-color: #ebffe5;
+    font-family: Tahoma;
+}
+
+#mainmenu{
+    font-size: 30px;
+    margin-left: 100px;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+li{
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #000;
+    text-align: center;
+    padding: 14px 40px;
+    text-decoration: none;
+    background-color: #ebffe5;
+    width: 200px;
+    height: auto;
+}
+
+#logo{
+    width: 100px;
+    margin-top: 6px;
+    margin-left: 23px;
+    position: fixed;
+    background-color: #ebffe5;
+}
+
+#bannerhome{
+    width: 100%;
+    margin-top: 64px;
+    background-color: #ebffe5;
+}
+
+#pageheader{
+    width: 100%;
+    height: 68px;
+    background-color: #ebffe5;
+    position: fixed;
+}
+
+#maincontent_homepage{
+    margin-left: 50px;
+    height: 400px;
+}
+
+#tussenkop{
+    font-size: 25px;
+    color: #ff9900;
+}
+
+#pagefooter{
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    background-color: #ffebcc;
+
+}
+
+#foto{
+    width: 100%;
+}
+
+#maincontent_homepage1{
+    margin-left: 50px;
+    height: 1200px;
+}
+
